@@ -72,7 +72,4 @@ Anubhab Anjan Kumar Malik
 - GitHub: [Anubhab-anjan](https://github.com/Anubhab-anjan)
 '''
 
-with open("README.md", "w") as f:
-    f.write(readme)
 
-print("README.md created!")
