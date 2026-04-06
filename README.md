@@ -1,4 +1,4 @@
-readme = '''# Coding Agent 🤖
+'''# Coding Agent 🤖
 
 A fine-tuned coding agent built with Qwen2.5-Coder-3B that generates step-by-step plans and complete working code for any app or website you describe.
 
