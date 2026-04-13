@@ -72,5 +72,11 @@ Anubhab Anjan Kumar Malik
 - GitHub: [Anubhab-anjan](https://github.com/Anubhab-anjan)
 '''
 
+## 🖼️ Project Demo
+
+Below are screenshots of the **Coding Agent Gradio interface**, showing how a user
+enters an instruction and receives a **step-by-step plan** along with
+**complete production-ready code**.
+
 ![Project Demo](run/Screenshot_2026-04-13_103409.png)
 ![Project Demo](run/Screenshot_2026-04-13_103421.png)
