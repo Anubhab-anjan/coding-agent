@@ -72,5 +72,5 @@ Anubhab Anjan Kumar Malik
 - GitHub: [Anubhab-anjan](https://github.com/Anubhab-anjan)
 '''
 
-![Project Demo](run/Screenshot 2026-04-13 103409.png)
-![Project Demo](run/Screenshot 2026-04-13 103421.png)
+![Project Demo](run/Screenshot_2026-04-13_103409.png)
+![Project Demo](run/Screenshot_2026-04-13_103421.png)
