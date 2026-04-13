@@ -78,5 +78,5 @@ Below are screenshots of the **Coding Agent Gradio interface**, showing how a us
 enters an instruction and receives a **step-by-step plan** along with
 **complete production-ready code**.
 
-![Project Demo](run/Screenshot_2026-04-13_103409.png)
-![Project Demo](run/Screenshot_2026-04-13_103421.png)
+![Project Demo](demo/1.png)
+![Project Demo](demo/2.png)
